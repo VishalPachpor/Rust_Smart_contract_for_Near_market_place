@@ -1,0 +1,11 @@
+
+.app{
+  text-align: center;
+  align-items: center;
+  margin-top: 20px;
+  
+}
+
+.app button {
+  cursor: pointer;
+}
